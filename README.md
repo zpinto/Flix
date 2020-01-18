@@ -25,3 +25,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+
+- I had some trouble initially connecting elements to the proper classes. Mainly the MovieCell in the identifier field of the Attributes Inspector
+- I also had some issues getting the pod to install
